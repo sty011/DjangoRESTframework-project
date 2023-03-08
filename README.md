@@ -1,5 +1,7 @@
 # DjangoRESTframework-shop
+
 A simple project to start learning DjangoRESTframework. 
+
 ---
 
 ### Create a venv : 

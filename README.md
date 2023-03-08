@@ -29,7 +29,7 @@ pip install djangorestframework
 django-admin startproject MyProject
 ```
 
-### start a new app in `Myproject` dir :
+### Start a new app in `Myproject` dir :
 ```
 django-admin startapp app1
 ```

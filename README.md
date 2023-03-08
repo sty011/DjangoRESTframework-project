@@ -1,6 +1,5 @@
 # DjangoRESTframework-shop
-A simple project to start working with Django REST framework.
-
+A simple project to start learning DjangoRESTframework. 
 ---
 
 ### Create a venv : 

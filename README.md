@@ -16,7 +16,7 @@ env\scripts\activate
 
 ### Install Django :
 ```
-pip instal Django
+pip install Django
 ```
 
 ### Install DjangoRESTframework :

@@ -33,3 +33,7 @@ django-admin startproject MyProject
 ```
 django-admin startapp app1
 ```
+### Create requirements.txt :
+```
+pip freeze > requirements.txt
+```

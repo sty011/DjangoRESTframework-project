@@ -13,6 +13,10 @@ python -m venv env
 ```
 env\scripts\activate
 ```
+or
+```
+sudo python3 --version
+```
 
 ### Install Django :
 ```

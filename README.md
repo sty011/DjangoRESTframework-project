@@ -15,7 +15,7 @@ env\scripts\activate
 ```
 or
 ```
-sudo python3 --version
+source env/bin/activate
 ```
 
 ### Install Django :
